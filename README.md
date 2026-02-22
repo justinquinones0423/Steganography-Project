@@ -6,3 +6,4 @@ I learned how to embed hidden messages into normal-seeming image files. Within m
 
 ### The steghide extract screenshot shows the extraction of the embedded data.
 
+### The steghide cat screenshot shows the "cat" command displaying the extracted message.
